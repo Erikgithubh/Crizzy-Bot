@@ -231,7 +231,7 @@ switch(command){
 				footerr = `Peringatan : Dilarang spam command/apapun ke bot!, dikarena mengakibatkan bot eror!\n© 2022 Fadhil Graphy`
 				anu = `${fke}Hi ${m.pushName} 👋, i'am crizzy!${fke}
 
-╭──❲ *CRIZZY BOT - MD* ❳
+╭──❲ *Yiksz BOT* ❳
 │
 │ *Info*
 │> *Nama :* _「 ${m.pushName} 」_
@@ -404,9 +404,9 @@ switch(command){
 					
 *⚠️ Nomor :*
 (Dana, OVO, GoPay, ShopeePay)
-	╰≻ 083102650464
-(Telkomsel)
-	╰≻ 082135724604
+	╰≻ -
+(Xl)
+	╰≻ 085920792778
 (Qris)
 	╰≻ Click the button below. 
 
@@ -754,7 +754,7 @@ break
 // follow https://github.com/Chandra-XD
 case 'biodatacookxkvz': {
 nduwur = `┍┈–––• *BIODATA OWNER*
-┆⫹⫺ Nama : -
+┆⫹⫺ Nama : RikZ
 ┆⫹⫺ Hobby : -
 ┆⫹⫺ Status : -
 ┆⫹⫺ Birthday : -
